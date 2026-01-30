@@ -70,18 +70,6 @@ The platform follows a **control-plane / data-plane** separation:
 
 ---
 
-## 🚀 Why This Project Matters
-
-This project reflects real-world platform engineering practices used in **large-scale engineering organizations**, not toy examples.
-
-It is intended to demonstrate readiness for:
-- Platform Engineer
-- Staff DevOps Engineer
-- Cloud Enablement Engineer
-- SRE / Infrastructure Lead roles
-
----
-
 ## 📁 Repository Structure
 
 See `/docs` for detailed architecture and design decisions.

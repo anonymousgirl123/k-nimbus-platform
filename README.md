@@ -3,7 +3,7 @@
 **K-Nimbus** is a production-grade **Internal Developer Platform (IDP)** designed to enable secure, scalable, and self-service software delivery in cloud-native environments.
 
 This platform demonstrates **Platform Engineering** thinking by focusing on **developer experience, security by default, GitOps, and operational excellence**.
-
+ 
 ---
 
 ## 🎯 Platform Vision
